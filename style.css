@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 100px;
+    text-align: center;
+}
+.onion {
+    
+    margin: 100px 25% auto auto;
+    width: 50%;
+}
+img {
+    border: 5px solid white;
+    width: 80%;
+}
